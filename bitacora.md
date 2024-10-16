@@ -7,5 +7,3 @@ Primera línea otra
 |col 1|col 2| col 3|
 
 Nueva Linea
-
-cambio a perder
